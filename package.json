@@ -1,0 +1,17 @@
+{
+  "name": "tts",
+  "version": "1.0.0",
+  "description": "请扮演一个名为天依的角色，使用第一人称视角回复消息。",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "request": "^2.88.2"
+  }
+}
